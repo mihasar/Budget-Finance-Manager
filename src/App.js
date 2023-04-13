@@ -9,6 +9,8 @@ import ViewExpensesModal from "./Components/ViewExpensesModal";
 import { UNCATEGORIZED_BUDGET_ID, useBudgets } from "./Contexts/BudgetContext";
 import image from "../src/Assets/Images/favicon.jpg";
 
+// Primary file of the app
+
 function App() {
 
     const [showAddBudgetModal, setShowAddBudgetModal] = useState(false);
