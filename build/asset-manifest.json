@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Budget-Finance-Manager/static/css/main.225b805f.css",
+    "main.js": "/Budget-Finance-Manager/static/js/main.0c45dc68.js",
+    "static/media/background.jpg": "/Budget-Finance-Manager/static/media/background.5a93c96b26c0b0abc4af.jpg",
+    "index.html": "/Budget-Finance-Manager/index.html",
+    "main.225b805f.css.map": "/Budget-Finance-Manager/static/css/main.225b805f.css.map",
+    "main.0c45dc68.js.map": "/Budget-Finance-Manager/static/js/main.0c45dc68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225b805f.css",
+    "static/js/main.0c45dc68.js"
+  ]
+}
